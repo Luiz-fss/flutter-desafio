@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "676769302343",
+    "firebase_url": "https://flutter-desafio.firebaseio.com",
+    "project_id": "flutter-desafio",
+    "storage_bucket": "flutter-desafio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676769302343:android:efbe8c1b1358e8e56f6e62",
+        "android_client_info": {
+          "package_name": "br.com.luizfernando.flutter_desafio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676769302343-qksc9jm4mkt188ehmj0r8gq986hqgf9v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.luizfernando.flutter_desafio",
+            "certificate_hash": "272bd58116a01439e7919f6b44ba921bc75e36e3"
+          }
+        },
+        {
+          "client_id": "676769302343-7dh3ffc5p69menbc0p34jrs7baaog1rv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1a7v_eNajMpINwQfbPkg0nRgf8LUeO6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676769302343-7dh3ffc5p69menbc0p34jrs7baaog1rv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
